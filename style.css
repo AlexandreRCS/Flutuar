@@ -58,6 +58,11 @@ p span{
 
 }
 
+#footer{
+    position: fixed;
+    width: 100%;
+}
+
 #footer p {
     display: inline;
     color: #3F3D56;
