@@ -1,9 +1,10 @@
 body{
+    width: 100%;
+    position: fixed;
+    text-align: center;
     margin: 0;
     padding: 0;
-    text-align: center;
-    height: 100vh;
-    
+    bottom: 0;
 }
 
 main{
@@ -59,10 +60,7 @@ p span{
 
 }
 
-#footer{
-    width: 100%;
 
-}
 
 #footer p {
     display: inline;
@@ -81,6 +79,7 @@ p span{
 #footer img{
     width: 100%;
     margin-top: 40px;
+    bottom: 0;
     
 
 }
