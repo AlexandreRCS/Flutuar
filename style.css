@@ -2,12 +2,13 @@ body{
     margin: 0;
     padding: 0;
     text-align: center;
+    height: 100vh;
     
 }
 
 main{
     width: 626px;
-    margin: 64px auto 0;
+    margin: 64px auto ;
    
 }
 
@@ -54,13 +55,13 @@ p span{
 .line{
     width: 391px;
     border: 1px solid #ECEFF2;
-    margin: 64px auto 16px;
+    margin: 0 auto 16px;
 
 }
 
 #footer{
-    position: fixed;
     width: 100%;
+
 }
 
 #footer p {
